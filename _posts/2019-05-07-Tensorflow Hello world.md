@@ -3,7 +3,7 @@ layout:     post
 title:      Hello Internet world
 subtitle:  第一次尝试用Github创建属于自己的博客，Hello Internet world
 date:       2019-05-07
-author:     RainbomSea
+author:     梁晓文
 header-img: img/post-web.jpg
 catalog: true
 tags:
