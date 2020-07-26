@@ -1,5 +1,5 @@
 # Site settings | 网站设置
-title: RainbomSea
+title: Cc-Cece
 SEOTitle: Cece的博客 | Cece
 header-img: img/home-bg-he.png
 email: Cc_cece@outlook.com
@@ -12,7 +12,7 @@ github_repo: "https://github.com/RainbomSea/RainbomSea.github.io.git" #code repo
 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "就算这样,也要笑着去努力啊!"
+sidebar-about-description: "纵然我身俱灭，定将恶鬼斩杀"
 sidebar-avatar: /img/head.jpg      # 头像
 
 
@@ -20,10 +20,10 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 
 # SNS settings | 社交网络设置
-facebook_username: 
+facebook_username: Chris Alan
 github_username: Cc-Cece
 zhihu_username: Alone993
-csdn_username: qq_
+csdn_username: qq_958630146
 
 
 
